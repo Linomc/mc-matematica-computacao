@@ -1,2 +1,5 @@
-# mc-matematica-computacao
-Conteúdos de tópicos matemáticos com ferramentas computacionais, onde é possível baixar e usar você mesmo
+# Matemática-Computação <- MC
+* Esse projeto tem como premissas, fornecer conteúdos de tópicos matemáticos utilizando com ferramentas computacionais, inicialmente nas linguagens **python e R**, onde é possível baixar e usar você mesm@ no navegador (numa simples página da internet), com o **google colaboratory (colab)**.
+----
+# Direitos de Uso
+* Você tem todo o direito de usar esse material para aprender. Professor@s (professores e professoras, tutores e tutoras, etc) também tem acesso a todos os materiais e podem usar para suas turmas e/ou alun@s (alunos e alunas). Porém tod@s (todos e todas) que usarem os materiais e códigos - seja para qual finalidade for - deverão manter a referência ao material original, criado e disponibilizado pelo autor Lino Carvalho. Este conteúdo não poderá ser replicado em nenhuma hipótese - integral ou parcialmente - por autores/editoras/instituições de ensino para criar livros ou apostilas, com finalidades de ganhos financeiros de quaisquer tipo com o material.
